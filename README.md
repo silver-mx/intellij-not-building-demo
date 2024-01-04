@@ -5,4 +5,4 @@ when the project is open under WSL2 (Windows).
 
 A screencast of the issue can be seen here: https://drive.google.com/file/d/1XaHv_r5Eqh8ch26YrUsnpakkNhVYWgkY/view?usp=sharing
 
-__NOTE:__ IntelliJ under a Windows environment builds the project correctly, see another screenshot: 
+__NOTE:__ IntelliJ under a Windows environment builds the project correctly, see another screenshot: https://drive.google.com/file/d/1POLvz2KgiXVROEsqRb83Fl8559Hhq66x/view?usp=sharing
